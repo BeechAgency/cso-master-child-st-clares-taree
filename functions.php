@@ -4,10 +4,11 @@ $GLOBALS['THEME_NAME'] = 'cso-master-child-st-clares-taree';
 $GLOBALS['CHILD_THEME_COLORS'] = array(
 	'white' => 'ffffff',
 	'black' => '000000',
-	'primary-dark' => '00824e',
-	'primary-light' => 'c4d9cf',
-	'secondary-dark' => '1053a2',
-	'secondary-light' => 'f6e911',
+	'primary-dark' => '192352',
+	'primary-light' => 'BCC4DB',
+	'secondary-dark' => '00824e',
+	'secondary-light' => 'c4d9cf',
+    'yellow' => 'f6e911',
 	'warning' => 'E31E39',
 	'success' => '2DC98D'
 );

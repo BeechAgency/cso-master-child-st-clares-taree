@@ -7,7 +7,7 @@ Author URI: https://beech.agency/
 Template: cso-master
 
 Description: A theme for St Clare's High School, Taree
-Version: 0.1
+Version: 0.2
 Tested up to: 6.4
 Requires PHP: 8.1
 License: GNU General Public License v2 or later
@@ -44,10 +44,10 @@ Underscores is distributed under the terms of the GNU GPL v2 or later.
 }
 
 :root {
-	--primary-dark : #00824e;
-	--primary-light : #c4d9cf;
-	--secondary-dark : #1053a2;
-	--secondary-light : #f6e911;
+	--primary-dark : #192352;
+	--primary-light : #BCC4DB;
+	--secondary-dark : #00824e;
+	--secondary-light : #c4d9cf;
 	--warning : #E31E39;
 	--success : #2DC98D;
 
